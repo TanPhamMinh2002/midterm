@@ -1,0 +1,32 @@
+body{
+    color: #30475e;
+    font-family: 'Roboto', sans-serif;
+    background-color: #cbaf87;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  a:link {
+    color: rgb(31,183,221)
+  }
+
+  a:visited {
+    color: silver;
+  }
+
+  #nav{
+    list-style-type: none;
+    background-color: #7e8a97;
+  }
+
+  h1,#nav,#menu{
+    text-align: center;
+  }
+
+  article{
+      background-color: #e7dec8;
+  }
