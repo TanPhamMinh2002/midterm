@@ -18,12 +18,13 @@ body{
     color: silver;
   }
 
-  #nav{
+ #navbar{
     list-style-type: none;
-    background-color: #7e8a97;
   }
-
-  h1,#nav,#menu{
+.nav{
+    background-color: #7e8a97;
+}
+  h1,.nav,#menu{
     text-align: center;
   }
 
